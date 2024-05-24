@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ocean View Suite",
+    "price": "175",
+    "detail": "Cozy and intimate suite with a private balcony overlooking the stunning Jaco Beach.",
+    "image": "./ocean-view-suite.jpg"
+  },
+  {
+    "name": "Beachfront Villa",
+    "price": "320",
+    "detail": "Spacious and luxurious villa with direct access to the private beach, surrounded by lush tropical gardens.",
+    "image": "./beachfront-villa.jpg"
+  },
+  {
+    "name": "Rainforest Retreat",
+    "price": "280",
+    "detail": "Tranquil and secluded room nestled in the heart of the Monteverde rainforest, with views of cascading waterfalls.",
+    "image": "./rainforest-retreat.jpg"
+  },
+  {
+    "name": "Golf Terrace Suite",
+    "price": "425",
+    "detail": "Upscale suite with a private terrace overlooking the championship golf course and the beautiful Pacific Ocean.",
+    "image": "./golf-terrace-suite.jpg"
+  },
+  {
+    "name": "Eco-Luxury Bungalow",
+    "price": "220",
+    "detail": "Sustainable and stylish bungalow surrounded by lush rainforest, with panoramic views of the Gulf of Dulce.",
+    "image": "./eco-luxury-bungalow.jpg"
+  }
+]
